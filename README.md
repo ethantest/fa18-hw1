@@ -1,3 +1,9 @@
+hi
+i
+like
+this
+readme
+
 # Rails DeCal Fall 2018 Homework 1
 This assignment involves writing scripts in Ruby to help you become familiar with the Ruby programming language.
 
